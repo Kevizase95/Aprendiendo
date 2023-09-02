@@ -1,2 +1,1 @@
-# Aprendiendo
-Aprendo a usar la herramienta para Henry
+Aca mirando brevemente como se utiliza la herramienta ya que quiero aprender bastante 
